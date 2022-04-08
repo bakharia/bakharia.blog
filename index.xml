@@ -6,25 +6,98 @@
     <description>Recent content on bakharia Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 01:09:33 -0400</lastBuildDate><atom:link href="http://bakharia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 16:49:37 -0400</lastBuildDate><atom:link href="http://bakharia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pollution_in_cities_to_Cigarettes</title>
+      <link>http://bakharia.github.io/posts/pollution_in_cities_to_cigarettes/</link>
+      <pubDate>Fri, 08 Apr 2022 16:49:37 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/pollution_in_cities_to_cigarettes/</guid>
+      <description>Github
+Listing some of the most polluted cities in the world and its equivalent Cigarettes.</description>
+    </item>
+    
+    <item>
+      <title>TempChange_cities</title>
+      <link>http://bakharia.github.io/posts/tempchange_cities/</link>
+      <pubDate>Fri, 08 Apr 2022 16:47:02 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/tempchange_cities/</guid>
+      <description>Github Studying the change in temperature in 1000 most popular cities in the world. Mainly focussing on european cities from the list</description>
+    </item>
+    
+    <item>
+      <title>Coldest_regions</title>
+      <link>http://bakharia.github.io/posts/coldest_regions/</link>
+      <pubDate>Fri, 08 Apr 2022 16:45:53 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/coldest_regions/</guid>
+      <description>Github Study on how temperatures have been changing in the coldest regions of the world main_file : lowtemp.ipynb</description>
+    </item>
+    
+    <item>
+      <title>Website Scraping</title>
+      <link>http://bakharia.github.io/posts/website-scraping/</link>
+      <pubDate>Fri, 08 Apr 2022 16:45:30 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/website-scraping/</guid>
+      <description>Github
+Scraping various products from different websites Images can be found here https://drive.google.com/drive/folders/1IudoDFP2WCVxmizNlAK9-SOOoENWuLSV?usp=sharing</description>
+    </item>
+    
+    <item>
+      <title>Python API Flask</title>
+      <link>http://bakharia.github.io/posts/python-api-flask/</link>
+      <pubDate>Fri, 08 Apr 2022 16:45:20 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/python-api-flask/</guid>
+      <description>Github
+This is a Python API designed for inventory management of equipments. It can be accessed by student and a manager. Both have different level of access. A student can see all the available equipments, file a request for one or return the issued equipment.
+Installation Use the package manager pip to install Flask.
+pip install flask The sqlite3 is available by default in python 2.5.x version and above.
+Usage To run the api run the following after clowning</description>
+    </item>
+    
+    <item>
+      <title>BioMassAnimals</title>
+      <link>http://bakharia.github.io/posts/biomassanimals/</link>
+      <pubDate>Fri, 08 Apr 2022 16:45:03 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/biomassanimals/</guid>
+      <description>Github Study on change in biomass of mammals, birds(wild and pultry) and livestock
+Data Source </description>
+    </item>
+    
+    <item>
+      <title>Northern Hemisphere Season Length</title>
+      <link>http://bakharia.github.io/posts/northern-hemisphere-season-length/</link>
+      <pubDate>Fri, 08 Apr 2022 16:44:30 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/northern-hemisphere-season-length/</guid>
+      <description>Github Calculating and Estimating length of the 4 seasons in different regions across the Northern Hemishpere (30-60 deg N)
+Data Source The daily temperature data files have been downloaded from https://www.metoffice.gov.uk/hadobs/hadghcnd/download.html (HadGHCND data)
+Output Files season-len.csv and season-len(filtered).csv are the two output file which contain data about all the places and data about places where length of summer is generally greater than 7, respectively
+Reference Based on Geophysical Research Published at AGU- Changing Lengths of the Four Seasons by Global Warming.</description>
+    </item>
+    
+    <item>
+      <title>FoodOverConsumption</title>
+      <link>http://bakharia.github.io/posts/foodoverconsumption/</link>
+      <pubDate>Fri, 08 Apr 2022 16:39:12 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/foodoverconsumption/</guid>
+      <description>Github My take on consumption of food in Developed Countries vs Developing Countries(like India)
+Data Sources </description>
+    </item>
+    
     <item>
       <title>Covid19XRay</title>
       <link>http://bakharia.github.io/posts/covidxray/</link>
       <pubDate>Fri, 08 Apr 2022 01:09:33 -0400</pubDate>
       
       <guid>http://bakharia.github.io/posts/covidxray/</guid>
-      <description>Covid19XRay Gtihub
+      <description>Gtihub
 Description  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19. Dataset from COVID-19 Radiography Dataset on Kaggle Libraries used: Pytorch  Summary:  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19 using Tensorflow Normalized the image by converting them into black and white images from grayscale to improve the accuracy after setting a threshold value to take care of stray white patches Obtained an error rate of 8 %  </description>
-    </item>
-    
-    <item>
-      <title>Post</title>
-      <link>http://bakharia.github.io/posts/post/</link>
-      <pubDate>Thu, 07 Apr 2022 13:12:26 -0400</pubDate>
-      
-      <guid>http://bakharia.github.io/posts/post/</guid>
-      <description>This is some content
-print(&amp;#34;Hello World&amp;#34;) </description>
     </item>
     
   </channel>
