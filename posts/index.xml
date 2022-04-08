@@ -6,7 +6,16 @@
     <description>Recent content in Posts on bakharia Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2022 13:12:26 -0400</lastBuildDate><atom:link href="http://bakharia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 01:09:33 -0400</lastBuildDate><atom:link href="http://bakharia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covidxray</title>
+      <link>http://bakharia.github.io/posts/covidxray/</link>
+      <pubDate>Fri, 08 Apr 2022 01:09:33 -0400</pubDate>
+      
+      <guid>http://bakharia.github.io/posts/covidxray/</guid>
+      <description>[Covid19XRay] (https://github.com/bakharia/Covid19XRay.git) Description  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19. Dataset from COVID-19 Radiography Dataset on Kaggle Libraries used: Pytorch, Pytorch  Summary:  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19 using Tensorflow Normalized the image by converting them into black and white images from grayscale to improve the accuracy after setting a threshold value to take care of stray white patches Obtained an error rate of 8 %  </description>
+    </item>
+    
     <item>
       <title>Post</title>
       <link>http://bakharia.github.io/posts/post/</link>
