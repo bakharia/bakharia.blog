@@ -14,7 +14,7 @@
       
       <guid>http://bakharia.github.io/posts/covidxray/</guid>
       <description>Covid19XRay Gtihub
-Description  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19. Dataset from COVID-19 Radiography Dataset on Kaggle Libraries used: Pytorch, Pytorch  Summary:  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19 using Tensorflow Normalized the image by converting them into black and white images from grayscale to improve the accuracy after setting a threshold value to take care of stray white patches Obtained an error rate of 8 %  </description>
+Description  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19. Dataset from COVID-19 Radiography Dataset on Kaggle Libraries used: Pytorch  Summary:  Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19 using Tensorflow Normalized the image by converting them into black and white images from grayscale to improve the accuracy after setting a threshold value to take care of stray white patches Obtained an error rate of 8 %  </description>
     </item>
     
     <item>
